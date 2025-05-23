@@ -60,7 +60,7 @@ six==1.13.0
 sklearn==0.0
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.0.3
+tornado==6.5.1
 traitlets==4.3.3
 tweepy==3.8.0
 urllib3==1.25.7
